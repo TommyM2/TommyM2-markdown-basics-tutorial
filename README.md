@@ -1,6 +1,6 @@
 # Markdown Basics for Beginners
 
-**Author:** [Your Name]  
+**Author:** [Tommy Martin]  
 **Summary:** Learn the basics of Markdown for formatting text.  
 **Target Audience:** Beginners, suitable for students, content creators, and developers.  
 
